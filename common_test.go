@@ -1,4 +1,4 @@
-package garrays
+package garray
 
 import (
 	"encoding/json"

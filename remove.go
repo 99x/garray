@@ -1,4 +1,4 @@
-package garrays
+package garray
 
 func Remove[T any](array []T, index int) []T {
 	for i := range array {

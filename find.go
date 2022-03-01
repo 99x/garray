@@ -1,4 +1,4 @@
-package garrays
+package garray
 
 func Find[T any](array []T, predicate func(element T) bool) *T {
 	for _, element := range array {
