@@ -13,12 +13,9 @@ import the package
 
 `import "github.com/99x/garray"`
 
-
 ## Usage
 
-
 The following test data array is used for all the examples of this article.
-
 
 #### Sample data array
 
@@ -81,7 +78,6 @@ type User struct {
 }
 ```
 
-
 ### Find
 
 The ***Find()*** function returns the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, ***nill*** is returned.
@@ -111,7 +107,7 @@ As the result of the return function, it will return the following result
 
 ### FindIndex
 
-The** *FindIndex()* **function returns the index of the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, ***-1*** is returned.
+The ***FindIndex()*** function returns the index of the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, ***-1*** is returned.
 
 Example 1:
 
