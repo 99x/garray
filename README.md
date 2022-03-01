@@ -9,7 +9,7 @@ To install G-array package
 
 `go get -u github.com/99x/garray`
 
-import the code
+import the package
 
 `import "github.com/99x/garray"`
 
