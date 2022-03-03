@@ -160,9 +160,7 @@ Example
 
 ```
 func main() {
-```
 
-```
    log.Printf("Count: %d", len(users)) // Count: 6
    log.Printf("1st user's name: %s", users[0].Name) // 1st user's name: Maryanne Case
    log.Printf("2nd user's name: %s", users[1].Name) // 2nd user's name: Christensen Acosta
